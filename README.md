@@ -10,4 +10,4 @@ Arduino IDE (for code upload)
 
 
 a tutorial for the design of the device https://www.youtube.com/watch?v=v5a7aZJiI-k
-https://wokwi.com/projects/414464167243379713
+initial design of the circuit used in data gathering step https://wokwi.com/projects/414464167243379713
