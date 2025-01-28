@@ -1,5 +1,9 @@
-# FOG-predictor-for-parkinsonism
+# ParkinsonCursorAid
+using a diffusion model the script will predict and fix the error on cursor movement due to hand termors in parkinsonism patients 
 
+
+
+# Freezing of gait predictor for parkinsonism
 This project utilizes the MPU6050 accelerometer and gyroscope sensor to monitor movement patterns in individuals with Parkinson's disease, aiming to predict "freezing of gait" (FOG) episodes. The data collected from the sensor helps detect abnormal movements, potentially signaling the onset of FOG.
 
 Components Required
